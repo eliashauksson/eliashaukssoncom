@@ -1,0 +1,29 @@
+{
+  "name": "eliashaukssoncom",
+  "version": "1.0.0",
+  "description": "This is my Personal Website written in CLJ and CLJS.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "shadow-cljs watch app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliashauksson/eliashaukssoncom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eliashauksson/eliashaukssoncom/issues"
+  },
+  "homepage": "https://github.com/eliashauksson/eliashaukssoncom#readme",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-refresh": "^0.9.0",
+    "shadow-cljs": "^2.11.18"
+  }
+}
