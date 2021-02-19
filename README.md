@@ -10,10 +10,20 @@ You will need
 
 [leiningen]: https://github.com/technomancy/leiningen
 
-- [Node.js][] and [npm][] installed.
+- [Node.js][] and [npm][] (or yarn) installed.
 
 [Node.js]: https://nodejs.org/en/
 [npm]: https://www.npmjs.com
+
+## Download
+
+To download the repository to your Computer, run:
+
+	git clone https://eliashauksson/eliashaukssoncom
+	
+Now before you can run the webserver you have to install some packages:
+
+	cd eliashaukssoncom && npm install
 
 ## Running
 
