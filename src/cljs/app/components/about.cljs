@@ -3,4 +3,5 @@
             [helix.dom :as d]))
 
 (defnc about []
-  (d/p "Aboutpage"))
+  (d/div {:class '[py-32 text-center]}
+    (d/h2 {:class '[font-extrabold text-4xl]} "About")))
